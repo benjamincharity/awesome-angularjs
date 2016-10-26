@@ -133,6 +133,7 @@ Table of contents:
 * [kirstein/angular-autodisable](https://github.com/kirstein/angular-autodisable) - An extension to angular ng-click directive that automatically sets the element to disabled if the handler would return a promise.
 * [benjamincharity/angular-keypad](https://github.com/benjamincharity/angular-keypad) - :iphone::1234: A numerical keypad built for mobile devices.
 * [harm-less/angular-sticky](https://github.com/harm-less/angular-sticky) - :Pure javascript AngularJS directive to make elements stick when scrolling.
+* [benjamincharity/angular-keybind](https://github.com/benjamincharity/angular-keybind) - A small AngularJS module to bind specific keypress events to methods.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
